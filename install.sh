@@ -27,4 +27,5 @@ sudo apt install dnsrecon -y
 
 sudo go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest
 
+go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 
