@@ -4,10 +4,14 @@ sudo apt update
 sudo apt upgrade
 sudo apt install golang-go -y
 
+PATH="$HOME/bin:$PATH"
+
 mkdir Sublist3r
 cd Sublist3r
 
 git clone https://github.com/aboul3la/Sublist3r.git
+
+sudo pip install -r requirements.txt
 
 cd ~
 
