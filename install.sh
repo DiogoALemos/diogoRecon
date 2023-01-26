@@ -3,6 +3,7 @@
 sudo apt update
 sudo apt upgrade
 sudo apt install golang-go -y
+sudo apt-get -y install python3-pip
 
 PATH="$HOME/bin:$PATH"
 
