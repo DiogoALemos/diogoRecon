@@ -32,5 +32,13 @@ sudo apt install dnsrecon -y
 
 sudo go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest
 
+echo "Installing Subfinder"
 go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+echo "Install of subfinder complete"
+
+echo "installing httpx"
+
+go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
+
+echo "install of httpx complete"
 
