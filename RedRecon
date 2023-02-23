@@ -86,8 +86,6 @@ function Ama {
 
 	amass intel -d ${var} -whois -o domain.txt
 
-	echo " Subdomain do domain verificado "
-
 	amass enum -passive -d ${var} -src -o subdomain.txt
 	
 	cp domain.txt /home/$USER/relatorios
