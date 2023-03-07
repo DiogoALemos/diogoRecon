@@ -6,4 +6,4 @@ RedRecon is a tool for recon and vunerability scan on selected target using Dnsx
 USAGE run the script and input the target via the input requested by the script
 ---------------------------------------------------------------------------------------
 WARNING with haktrails a API key is needed for it to work otherwise it will not function, it uses alot of tokens so spend them wisely
-
+---------------------------------------------------------------------------------------
