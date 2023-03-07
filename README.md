@@ -7,7 +7,7 @@ USAGE run the script and input the target via the input requested by the script
 ---------------------------------------------------------------------------------------
 WARNING with haktrails a API key is needed for it to work otherwise it will not function, it uses alot of tokens so spend them wisely
 ---------------------------------------------------------------------------------------
-Exemplo do script a correr após o input 
+Example of the script running ( only 2 tools are being shown out of the 7 that run automatically )
 ---------------------------------------------------------------------------------------
 
                  ____        _     _ _     _   _____
