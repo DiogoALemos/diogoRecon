@@ -4,7 +4,7 @@ Instalattion Guide
 ---------------------------------------------------------------------------------------
 download the script install.sh and when the download finishes run the script
 ---------------------------------------------------------------------------------------
-Installation Instructions Redrecon requires go1.19 and x and y to install successfully. Run the following command to get the repo:# ./install.sh
+Installation Instructions Redrecon requires go1.19 and linux to be updated, to install successfully. Run the following command to get the repo:# ./install.sh
 ---------------------------------------------------------------------------------------
 REQUIRED install.sh to be used before this script can be used correctly
 ---------------------------------------------------------------------------------------
