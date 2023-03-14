@@ -1,6 +1,6 @@
 # diogoRecon
 
-Instalattion Guide
+Instalation Guide
 ---------------------------------------------------------------------------------------
 download the script install.sh and when the download finishes run the script
 ---------------------------------------------------------------------------------------
