@@ -18,19 +18,19 @@ cd ~
 
 echo "installing Amass"
 
-sudo go install -v github.com/OWASP/Amass/v3/...@master
+sudo go install -v -y github.com/OWASP/Amass/v3/...@master
 
 echo "Amass instalation complete"
 
 echo "Installing haktrails"
 
-sudo go install -v github.com/hakluke/haktrails@latest
+sudo go install -v -y github.com/hakluke/haktrails@latest
 
 echo "Haktrails instalation complete"
 
 echo "Installing Notify"
 
-sudo go install -v github.com/projectdiscovery/notify/cmd/notify@latest
+sudo go install -v -y github.com/projectdiscovery/notify/cmd/notify@latest
 
 echo "Notify instalation complete"
 
@@ -48,17 +48,17 @@ echo "DnsRecon instalation complete"
 
 echo "Installing Dnsx"
 
-sudo go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest
+sudo go install -v -y github.com/projectdiscovery/dnsx/cmd/dnsx@latest
 
 echo "Dnsx instalation complete"
 
 echo "Installing Subfinder"
-go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+go install -v -y github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 echo "Install of subfinder complete"
 
 echo "installing httpx"
 
-sudo apt install python3-httpx
+sudo apt install python3-httpx -y
 
 echo "install of httpx complete"
 
