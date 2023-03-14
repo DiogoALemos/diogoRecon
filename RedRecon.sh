@@ -2,7 +2,7 @@
 
 
 
-echo "Insira o website para o script correr"
+echo "Insira o website:"
 read website
 
 var=$website
